@@ -1,3 +1,3 @@
 # Time-Calculator-no-library-
 
-A fun project for beginners! Python
+This challenge in Pyhton is not using any libraries. This is one of the ways I came up with
